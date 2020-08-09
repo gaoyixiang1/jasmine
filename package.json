@@ -1,0 +1,19 @@
+{
+  "name": "jasmine-master",
+  "version": "1.0.0",
+  "description": "2018.10.07 ### 实验室站会分享 测试框架Jasmine",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^3.6.0",
+    "karma": "^5.1.1",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-cli": "^2.0.0",
+    "karma-jasmine": "^3.3.1"
+  }
+}
